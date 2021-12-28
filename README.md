@@ -1,6 +1,6 @@
-AkunKu merupakan aplikasi berbasis website diperuntukkan untuk Usaha Mikro Kecil Menengah (UMKM). AkunKu dapat dapat digunakan untuk mencatat pemasukan maupun pengeluaran serta dapat menampilkan segala informasi mengenai jurnal akuntansi.
+AkunKu merupakan aplikasi berbasis website diperuntukkan untuk Usaha Mikro Kecil Menengah (UMKM). AkunKu dapat digunakan untuk mencatat pemasukan maupun pengeluaran serta dapat menampilkan segala informasi mengenai jurnal akuntansi.
 
-# ✍ Author:
+# ✍ Author
 - Feriansyah Rifa'i
 - Ershad Ahmad Rifai
 - Nur Muhammad Hasan Basri
